@@ -23,7 +23,7 @@ Developing for science
 - 💻 I was an AI Engineer @ [Quant AI Lab](https://www.quant.global/)
 - 💻 I was an AI Engineer @ [PredictLand](https://www.predictland.com/)
 - 💻 I was Data Scientist @ [Santander Bank](https://www.santander.com/es/home)
-- 🌱 I studied Artificial Intelligence and Deep Learning @ [FIB-UPC](https://masters.fib.upc.edu/masters/master-artificial-intelligence)<br>
+- 🌱 I studied Artificial Intelligence and Deep Learning @ [FIB-UPC](https://masters.fib.upc.edu/masters/master-artificial-intelligence) sitories [here](https://github.com/orgs/UPC-MAI-Master-Projects/repositories)<br>
 - 🌱 I studied Master's Degree in Big Data and Business Intelligence @ [EOI-Madrid](https://www.eoi.es/es/cursos/89492/master-en-big-data-business-analytics-madrid)<br>
 - 🌱 I studied Mathematics and Physics @ [Universidad de Sevilla](https://www.us.es/estudiar/que-estudiar/oferta-de-grados/doble-grado-en-fisica-y-matematicas#edit-group-plani)<br>
 - 💬 Ask me about deep learning, statistics, music and sport 😊🎵🔊📖<br>
