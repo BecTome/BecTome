@@ -19,6 +19,7 @@ Developing for science
 
 <h2 align='center'>🧑 About Me</h2>
 
+- 💻 I am a Research Engineer in NLP and AI @ [Barcelona Supercomputing Center](https://www.bsc.es/discover-bsc/organisation/research-departments/nlp-biomedical-information-analysis)
 - 💻 I was a Data Science Lead Instructor @ [The Bridge School](https://www.thebridge.tech/)
 - 💻 I was an AI Engineer @ [Quant AI Lab](https://www.quant.global/)
 - 💻 I was an AI Engineer @ [PredictLand](https://www.predictland.com/)
